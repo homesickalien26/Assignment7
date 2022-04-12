@@ -1,0 +1,18 @@
+
+namespace ObjectsClasses
+{
+    class Pet
+    {
+        internal static int Length;
+        public int Age;
+        public string Name;
+        public string Breed;
+        public string Gender;
+
+        public static int totalNumberOfPets;
+        public static int sumOfAllPetAges;
+
+
+    }
+}
+
